@@ -9,8 +9,10 @@ https://readme-typing-svg.demolab.com/demo/?font=Nanum+Pen+Script&size=26&letter
 - 2023 벤처스타트업 아카데미 - 웹개발자 양성과정 이수 (2023.03 ~ 2024.02)
 - 동국대학교 융합소프트웨어 전공 졸업 (2018.03 ~ 2024.08)
 
+#### Stats
+[![Ag-crane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ag-crane&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=enaklee401)](https://solved.ac/enaklee401)
 
-#### Stats
-[![Ag-crane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ag-crane&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
