@@ -11,6 +11,7 @@ https://readme-typing-svg.demolab.com/demo/?font=Nanum+Pen+Script&size=26&letter
 
 #### Stats
 [![Ag-crane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ag-crane&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ag-crane)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=enaklee401)](https://solved.ac/enaklee401)
