@@ -10,8 +10,12 @@ https://readme-typing-svg.demolab.com/demo/?font=Nanum+Pen+Script&size=26&letter
 - 동국대학교 융합소프트웨어 전공 졸업 (2018.03 ~ 2024.08)
 
 #### Stats
-[![Ag-crane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ag-crane&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ag-crane)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ag-crane&hide=stars&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ag-crane&layout=compact" />
+</a>
 
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=enaklee401)](https://solved.ac/enaklee401)
