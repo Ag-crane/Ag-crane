@@ -11,7 +11,7 @@ https://readme-typing-svg.demolab.com/demo/?font=Nanum+Pen+Script&size=26&letter
 
 #### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ag-crane&hide=stars&include_all_commits&show_icons=true" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ag-crane&layout=compact&hide=jupyter_notebook&langs_count=6" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ag-crane&layout=compact&hide=jupyter_notebook,java&langs_count=6" /></a>
 
 #### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=enaklee401)](https://solved.ac/enaklee401)
